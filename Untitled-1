@@ -1,0 +1,10 @@
+jason@Jasons-MBP-2 test % ls
+jason@Jasons-MBP-2 test % cd ..
+jason@Jasons-MBP-2 desktop % mv sample.txt test
+jason@Jasons-MBP-2 desktop % cd test
+jason@Jasons-MBP-2 test % ls
+sample.txt
+jason@Jasons-MBP-2 test % mv sample.txt example.txt
+jason@Jasons-MBP-2 test % ls
+example.txt
+jason@Jasons-MBP-2 test % cd ..
